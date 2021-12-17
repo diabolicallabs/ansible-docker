@@ -1,0 +1,1 @@
+docker image save -o files/ansible_latest.tar ansible:latest

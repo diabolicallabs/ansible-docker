@@ -1,0 +1,1 @@
+docker load -i files/ansible_latest.tar
